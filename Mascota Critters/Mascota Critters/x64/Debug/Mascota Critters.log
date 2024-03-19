@@ -1,0 +1,8 @@
+﻿  Critter.cpp
+E:\Programació\UF4 Programació Objectes\Mascota Critters\Mascota Critters\Critter.cpp(34,21): warning C4552: "+": el resultado de la expresión no se usa
+  Granja.cpp
+  Mascota Critters.cpp
+E:\Programació\UF4 Programació Objectes\Mascota Critters\Mascota Critters\Mascota Critters.cpp(123,12): warning C4129: '_': secuencia de escape de carácter no reconocida
+  Troll.cpp
+  Generando código...
+  Mascota Critters.vcxproj -> E:\Programació\UF4 Programació Objectes\Mascota Critters\x64\Debug\Mascota Critters.exe
